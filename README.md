@@ -1,39 +1,25 @@
-<!-- unified-readme:start -->
+<!-- jr-brand:start -->
 <div align="center">
-
-# Power BI Dashboards
-
-**Power BI dashboard templates for Microsoft Intune endpoint analytics and device management reporting.**
-
-Measure. Visualize. Improve.
-
-[![GitHub stars](https://img.shields.io/github/stars/JayRHa/PowerBIDashboards?style=for-the-badge&logo=github&color=f4c542)](https://github.com/JayRHa/PowerBIDashboards/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/JayRHa/PowerBIDashboards?style=for-the-badge&logo=github&color=4078c0)](https://github.com/JayRHa/PowerBIDashboards/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/JayRHa/PowerBIDashboards?style=for-the-badge&logo=github&color=d73a4a)](https://github.com/JayRHa/PowerBIDashboards/issues)
-[![Contributors](https://img.shields.io/github/contributors/JayRHa/PowerBIDashboards?style=for-the-badge&logo=github&color=28a745)](https://github.com/JayRHa/PowerBIDashboards/graphs/contributors)
-
-[Check out my blog](https://jannikreinhard.com)
-<p>
-  <a href="https://jannikreinhard.com/">Blog</a> ·
-  <a href="https://www.linkedin.com/in/jannik-r/">LinkedIn</a> ·
-  <a href="https://x.com/jannik_reinhard">X</a>
+  <a href="https://jannikreinhard.com/">
+    <img src="https://raw.githubusercontent.com/JayRHa/.github/main/assets/readme/collection.svg" alt="Jannik Reinhard — AI, Cloud and Endpoint Management" width="100%">
+  </a>
+  <h1>Power BI Dashboards</h1>
+  <p><strong>Power BI dashboard templates for Microsoft Intune endpoint analytics and device management reporting.</strong></p>
+  <p>
+  <a href="https://jannikreinhard.com/"><img src="https://img.shields.io/badge/Website-0A5FC0?style=flat-square&amp;logo=wordpress&amp;logoColor=white" alt="Website"></a>
+  <a href="https://github.com/JayRHa"><img src="https://img.shields.io/badge/GitHub-081427?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/jannik-r/"><img src="https://img.shields.io/badge/LinkedIn-0795FF?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
+  <a href="https://x.com/jannik_reinhard"><img src="https://img.shields.io/badge/X-081427?style=flat-square&amp;logo=x&amp;logoColor=white" alt="X"></a>
+  <a href="https://www.youtube.com/@ModernDevMgmt/featured"><img src="https://img.shields.io/badge/YouTube-0A5FC0?style=flat-square&amp;logo=youtube&amp;logoColor=white" alt="YouTube"></a>
 </p>
-
----
-
-`Reporting` | `Dashboards` | `Public` | `Maintained`
-
+  <p><sub>Open-Source Collection · Documentation · Practical by design</sub></p>
 </div>
+<!-- jr-brand:end -->
 
-## What is this?
+## Overview
 
 Power BI Dashboards turns endpoint or operational data into dashboards and reporting views for analysis and decision making.
 
-## Project Context
-
-- Use it when raw endpoint data needs to become a readable report or dashboard.
-- The flow depends on clean data shaping before visuals are useful.
-- This repository is maintained as a practical project and reference asset.
 
 ## How It Works
 
@@ -48,7 +34,7 @@ flowchart LR
     Actions --> Data
 ```
 
-## Quick Start
+## Quickstart
 
 1. Review the project context and workflow below.
 2. Clone the repository:
@@ -59,8 +45,21 @@ flowchart LR
 
 3. Continue with the setup, usage, or workflow sections below.
 
----
-<!-- unified-readme:end -->
-
 ## Intune Reporting Dashboard
 ![IntuneDashboard](https://github.com/JayRHa/PowerBIDashboards/blob/main/assets/IntuneDashboard.png)
+
+## License
+
+This project is available under the terms in [LICENSE](LICENSE).
+
+<!-- jr-brand-footer:start -->
+
+---
+
+<div align="center">
+  <p><sub>Built and maintained by <a href="https://jannikreinhard.com/">Jannik Reinhard</a> · Microsoft MVP for Security and AI Platform.</sub></p>
+  <p><a href="https://www.buymeacoffee.com/jannikreinf">Support the open-source work</a></p>
+  <p><strong>Stay healthy, Cheers Jannik</strong></p>
+</div>
+
+<!-- jr-brand-footer:end -->
